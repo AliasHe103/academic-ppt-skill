@@ -1,0 +1,63 @@
+{
+  "name": "warm-monograph",
+  "display_name": "Warm Monograph (牛津暖白学术红)",
+  "description": "柔和护眼暖白画布 (#FCFCFA) 搭配牛津酒红 (#7A1C2E) 与深青灰，适合长文档阅读、理论推导与消融实验对比汇报。",
+  "fonts": {
+    "latin_heading": "Arial",
+    "latin_body": "Arial",
+    "latin_mono": "Courier New",
+    "ea_heading": "Microsoft YaHei",
+    "ea_body": "Microsoft YaHei",
+    "mpl_cjk_chain": [
+      "PingFang SC",
+      "Hiragino Sans GB",
+      "Microsoft YaHei",
+      "Noto Sans CJK SC",
+      "Source Han Sans SC",
+      "SimHei",
+      "Arial Unicode MS"
+    ]
+  },
+  "colors": {
+    "bg_canvas": "#FCFCFA",
+    "bg_subtle": "#F4F1EA",
+    "bg_tint": "#F9EFF1",
+    "bg_card": "#F7F5F0",
+    "bg_highlight_row": "#F9ECEF",
+    "bg_group_row": "#F3F0E8",
+    "primary": "#7A1C2E",
+    "secondary": "#2C5282",
+    "accent": "#B45309",
+    "positive": "#1F6F5B",
+    "warning": "#C05621",
+    "text_main": "#1C1917",
+    "text_body": "#292524",
+    "text_muted": "#78716C",
+    "text_on_primary": "#FFFFFF",
+    "border_light": "#D6D3D1",
+    "border_subtle": "#E7E5E4",
+    "rule_heavy": "#7A1C2E",
+    "rule_mid": "#57534E",
+    "rule_light": "#D6D3D1",
+    "chart_palette": [
+      "#7A1C2E",
+      "#2C5282",
+      "#1F6F5B",
+      "#C05621",
+      "#57534E",
+      "#78716C",
+      "#A8A29E"
+    ]
+  },
+  "layout": {
+    "slide_width_in": 13.333,
+    "slide_height_in": 7.5,
+    "margin_x_in": 0.6,
+    "margin_top_in": 0.42,
+    "margin_bottom_in": 0.42,
+    "table_top_rule_pt": 1.5,
+    "table_mid_rule_pt": 0.85,
+    "table_sub_rule_pt": 0.5,
+    "table_bottom_rule_pt": 1.5
+  }
+}

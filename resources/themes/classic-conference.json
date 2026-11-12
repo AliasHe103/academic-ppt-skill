@@ -1,0 +1,63 @@
+{
+  "name": "classic-conference",
+  "display_name": "Classic Conference (经典顶会深海蓝)",
+  "description": "纯白画布搭配深海蓝主色 (#1B365D) 与标准学术三线表，适用于 ICLR/NeurIPS/CVPR/ACL 等顶会汇报、组会精读与学位答辩。",
+  "fonts": {
+    "latin_heading": "Arial",
+    "latin_body": "Arial",
+    "latin_mono": "Courier New",
+    "ea_heading": "Microsoft YaHei",
+    "ea_body": "Microsoft YaHei",
+    "mpl_cjk_chain": [
+      "PingFang SC",
+      "Hiragino Sans GB",
+      "Microsoft YaHei",
+      "Noto Sans CJK SC",
+      "Source Han Sans SC",
+      "SimHei",
+      "Arial Unicode MS"
+    ]
+  },
+  "colors": {
+    "bg_canvas": "#FFFFFF",
+    "bg_subtle": "#F4F6F9",
+    "bg_tint": "#EEF4FB",
+    "bg_card": "#F8FAFC",
+    "bg_highlight_row": "#EAF1F8",
+    "bg_group_row": "#F3F5F8",
+    "primary": "#1B365D",
+    "secondary": "#2B6CB0",
+    "accent": "#C53030",
+    "positive": "#0F766E",
+    "warning": "#B45309",
+    "text_main": "#111827",
+    "text_body": "#1F2937",
+    "text_muted": "#64748B",
+    "text_on_primary": "#FFFFFF",
+    "border_light": "#CBD5E1",
+    "border_subtle": "#E2E8F0",
+    "rule_heavy": "#1B365D",
+    "rule_mid": "#475569",
+    "rule_light": "#CBD5E1",
+    "chart_palette": [
+      "#1B365D",
+      "#2B6CB0",
+      "#0F766E",
+      "#C53030",
+      "#D97706",
+      "#64748B",
+      "#94A3B8"
+    ]
+  },
+  "layout": {
+    "slide_width_in": 13.333,
+    "slide_height_in": 7.5,
+    "margin_x_in": 0.6,
+    "margin_top_in": 0.42,
+    "margin_bottom_in": 0.42,
+    "table_top_rule_pt": 1.5,
+    "table_mid_rule_pt": 0.85,
+    "table_sub_rule_pt": 0.5,
+    "table_bottom_rule_pt": 1.5
+  }
+}
